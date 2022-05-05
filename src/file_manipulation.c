@@ -21,7 +21,7 @@ void read_numbers_from_file(int * buf, int buf_size, char * inputFileName){
 }
 
 void test_read_numbers_from_file(){
-    // Define test data buffer
+    // Create test data buffer
     int buf_size = 1000;
     int * buf = malloc(buf_size * sizeof(int));
 
