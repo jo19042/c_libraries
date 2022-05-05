@@ -8,3 +8,5 @@ structures and algorithms.
 Thus, the purpose of this project, to write/build different algorithms and data
 structures and implement different features in C in order to practice and gain
 a certain confidence in them.
+
+gcc -Iinclude main.c src/file_manipulation.c

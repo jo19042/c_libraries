@@ -10,10 +10,4 @@
  */
 void read_numbers_from_file(int * buf, int buf_size, char * inputFileName);
 
-/**
- * @brief Tests reading numbers from file function.
- * 
- */
-void test_read_numbers_from_file();
-
 #endif
